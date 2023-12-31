@@ -3,9 +3,12 @@ This template contains a Node.JS, Express, and CursusDB REST API with Basic Auth
 The basic auth is very simplified but with an example on how to implement it.
 
 This REST API template contains a ``/posts`` route that has all CRUD capabilities.
-Basic Auth creds are 
+Basic Auth creds are:
+
 Username: ``template``
+
 Password: ``template``
+
 
 ### POST
 ```
